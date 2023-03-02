@@ -2,5 +2,5 @@
 ### Aplicação de tarefas utilizando Chakra UI
 ## Site construído com:
 <div>
-<img src="/public/tech">
+<img src="/public/techs.png">
 </div>
